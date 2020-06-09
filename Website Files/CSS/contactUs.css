@@ -1,0 +1,56 @@
+#contactUsHeader{
+  width:800px;
+  height:100px;
+}
+
+#contactUs{
+  background-color: #e06666ff;
+}
+
+#contact{
+  width:800px;
+  height:100px;
+  margin top:20px;
+  margin-bottom: 20px;
+  box-shadow: 5px 5px 10px #7E93A9;
+}
+
+#mapHead{
+  font-family: 'Poppins',sans-serif;
+  font-weight: bold;
+}
+
+#mapTable{
+  margin-left: 20px;
+  margin-right: 10px;
+  font-size: 25;
+  font-family: 'Poppins',sans-serif;
+}
+
+#message{
+  width:300px;
+  height:50px;
+}
+
+form{
+  margin-left: 30px;
+}
+
+.mapInfo{
+  background-color:#FCEE9D;
+}
+
+#send{
+  width:100px;
+  height:50px;
+  border-radius: 15px;
+  background-color: #9841B0;
+  font-family: 'Poppins',sans-serif;
+  font-size: 20;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+
+#send:hover{
+  background-color: #6441B0;
+}
